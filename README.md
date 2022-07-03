@@ -8,3 +8,5 @@
  effort > talent
  
  steal like an artist
+ 
+ 
