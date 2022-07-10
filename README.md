@@ -1,12 +1,10 @@
 # mario_game
- Super Mario game, created using HTML and Kaboom.js library. 
+Super Mario game, created using HTML and Kaboom.js library. 
  
- Thanks to Ania Kubow for helping to create my childhood favorite game.
+Thanks to Ania Kubow for helping to create my childhood favorite game.
  
- More to come.
+More to come.
  
- effort > talent
+effort > talent
  
- steal like an artist
- 
- 
+steal like an artist
